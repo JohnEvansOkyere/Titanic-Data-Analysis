@@ -131,14 +131,15 @@ Collaborate with industry experts and organizations to continuously refine safet
 - Seaborn
 
 ## Acknowledgments
+- ChatGPT
+- LinkedIN
 
-- Titanic dataset obtained from [source link].
 
 ## Contact
 
 For questions or collaboration opportunities, feel free to reach out:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- 📧 Email: [okyerevansjohn@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
 
 Happy analyzing! 🚢📊
