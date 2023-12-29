@@ -45,7 +45,9 @@ EDA incolve exploring survival data to answer key questions:
 
  Matplotlib and Seaborn were utilized to create visualizations that enhance the interpretation of the data.
 
-I then included dashboard from Power BI, below is the dashboard created
+* I then included dashboard from Power BI, below is the dashboard created
+[TITANIC DASHBOARD.pdf](https://github.com/JohnEvansOkyere/Titanic-Data-Analysis/files/13792224/TITANIC.DASHBOARD.pdf)
+
 
 ## Predictions
 
