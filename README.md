@@ -140,6 +140,7 @@ Collaborate with industry experts and organizations to continuously refine safet
 For questions or collaboration opportunities, feel free to reach out:
 
 - 📧 Email: [okyerevansjohn@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
+- 
+- 💼 LinkedIn: https://www.linkedin.com/feed/
 
 Happy analyzing! 🚢📊
