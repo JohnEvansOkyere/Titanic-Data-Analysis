@@ -1,4 +1,4 @@
-# Titanic-Data-Analysis-and-Prediction
+# Logistic Regression with Titanic Dataset and analysis
 
 #Table of Content
 - [Project Overview](#Overview)
